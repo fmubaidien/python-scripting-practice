@@ -1,0 +1,3 @@
+192.168.1.1 faisal path/to/ssh1
+192.168.1.2 hussein path/to/ssh2
+192.168.1.3 khalaf path/to/ssh3
